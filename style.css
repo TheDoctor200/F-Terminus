@@ -7,6 +7,11 @@ body {
     color: #6cff6c;
 }
 
+.terminal-image {
+    max-width: 100%;
+    height: auto;
+}
+
 body {
     font-family: "Courier New", monospace;
     padding: 30px;

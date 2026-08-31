@@ -14,7 +14,6 @@
 - [Quick Start](#quick-start)
 - [Project Structure](#project-structure)
 - [Contributors](#contributors)
-- [Contributing](#contributing)
 
 ## 📝 Description
 

@@ -8,6 +8,9 @@
 - Fallout Series
 - ME
 
+## Deployed Site
+(https://thedoctor200.github.io/F-Terminus/)
+
 ## 📑 Table of Contents
 
 - [Description](#description)
@@ -26,7 +29,7 @@ F-Terminus — a software project built with modern tooling.
 # 1. Clone the repository
 git clone https://github.com/TheDoctor200/F-Terminus.git
 
-# 2. Open index.html
+2.Open index.html
 
 # See the Development Setup section below
 ```

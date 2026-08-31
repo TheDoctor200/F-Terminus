@@ -9,7 +9,7 @@
 - ME
 
 ## Deployed Site
-(https://thedoctor200.github.io/F-Terminus/)
+https://thedoctor200.github.io/F-Terminus
 
 ## 📑 Table of Contents
 

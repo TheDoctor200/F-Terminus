@@ -11,13 +11,6 @@
 ## Deployed Site
 https://thedoctor200.github.io/F-Terminus
 
-## 📑 Table of Contents
-
-- [Description](#description)
-- [Quick Start](#quick-start)
-- [Project Structure](#project-structure)
-- [Contributors](#contributors)
-
 ## Description
 
 F-Terminus — a software project built with modern tooling.

@@ -22,7 +22,8 @@ F-Terminus — a software project built with modern tooling.
 # 1. Clone the repository
 git clone https://github.com/TheDoctor200/F-Terminus.git
 
-# 2.Open index.html (open with preferred Browser)
+# 2.
+Open index.html (open with preferred Browser)
 
 ```
 

@@ -40,6 +40,6 @@ Open index.html (open with preferred Browser)
 └── style.css
 ```
 
-## 👥 Contributors
+## Contributors
 
 Only me - personal site

@@ -18,23 +18,22 @@ https://thedoctor200.github.io/F-Terminus
 - [Project Structure](#project-structure)
 - [Contributors](#contributors)
 
-## 📝 Description
+## Description
 
 F-Terminus — a software project built with modern tooling.
 
-## ⚡ Quick Start
+## Local Build
 
 ```bash
 
 # 1. Clone the repository
 git clone https://github.com/TheDoctor200/F-Terminus.git
 
-2.Open index.html
+2.Open index.html (open with preferred Browser)
 
-# See the Development Setup section below
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -49,11 +48,4 @@ git clone https://github.com/TheDoctor200/F-Terminus.git
 
 ## 👥 Contributors
 
-Thanks to everyone who has contributed to this project:
-
-<p align="left">
-<a href="https://github.com/TheDoctor200" title="TheDoctor200"><img src="https://avatars.githubusercontent.com/u/88980346?v=4&s=64" width="64" height="64" alt="TheDoctor200" style="border-radius:50%" /></a>
-</p>
-
-[See the full list of contributors →](https://github.com/TheDoctor200/F-Terminus/graphs/contributors)
-
+Only me - personal site
